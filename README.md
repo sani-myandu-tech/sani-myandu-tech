@@ -134,21 +134,7 @@ Backend system for detecting and removing duplicate data using SHA-256 hashing, 
 </tr>
 </table>
 
----
-
-## GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sani-myandu-tech&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sani-myandu-tech&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sani-myandu-tech&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
+--
 
 ## Contribution Graph
 
