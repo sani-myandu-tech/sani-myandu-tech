@@ -93,16 +93,6 @@ Android job-application tracker with a GPT-4o-mini chatbot for user assistance. 
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sani-mnyandu-tech&theme=react-dark&hide_border=true)
-
-</div>
-
----
-
 ## Currently Learning
 
 - Advanced RAG architectures and vector database optimization
