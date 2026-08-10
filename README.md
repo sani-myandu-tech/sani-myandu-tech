@@ -64,7 +64,7 @@ Full-stack food ordering marketplace for South African campuses. Rebuilt from a 
 </td>
 <td width="50%">
 
-### [Café 101](https://github.com/sani-mnyandu-tech/Cafe101-mm)
+### [Café 101](https://github.com/sani-myandu-tech/Cafe101-mm)
 C# WinForms POS and café management system with four distinct role-based dashboards (Cashier, Manager, Head Chef, Owner). Built an Owner dashboard with date-range KPI filtering, migrated SQL schemas across live databases, and shipped with full technical documentation. Built for a university capstone with a live SQL Server backend — not a mock dataset.
 
 `C#` `WinForms` `SQL Server` `GDI+`
@@ -74,7 +74,7 @@ C# WinForms POS and café management system with four distinct role-based dashbo
 <tr>
 <td width="50%">
 
-### [SmartBin](https://github.com/sani-mnyandu-tech)
+### [SmartBin](https://github.com/sani-myandu-tech)
 Android smart-waste-bin monitoring app. Real-time device data over MQTT, NFC bin tagging, GraphQL queries via raw OkHttp, and Google Maps TSP route optimization for collection routing — built and debugged end-to-end on constrained lab hardware.
 
 `Kotlin` `Jetpack Compose` `MQTT` `GraphQL` `Firebase`
@@ -82,7 +82,7 @@ Android smart-waste-bin monitoring app. Real-time device data over MQTT, NFC bin
 </td>
 <td width="50%">
 
-### [JobTracker Pro](https://github.com/sani-mnyandu-tech)
+### [JobTracker Pro](https://github.com/sani-myandu-tech)
 Android job-application tracker with a GPT-4o-mini chatbot for user assistance. Rebuilt mid-project from local-only storage to full Firebase cloud sync to meet production-readiness requirements.
 
 `Kotlin` `Jetpack Compose` `Firebase` `GPT-4o-mini` `Hilt`
