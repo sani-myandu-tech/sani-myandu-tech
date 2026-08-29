@@ -4,7 +4,7 @@
 
 ### AI & Cloud Developer · Full-Stack Engineer · Final-Year IS Student @ UKZN
 
-I build backend systems and AI-integrated apps that actually ship — not just run in a notebook.
+I build backend systems and AI-integrated apps that actually ship not just run in a notebook.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lungisani-mnyandu)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sani-mnyandu-tech)
