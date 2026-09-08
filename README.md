@@ -16,7 +16,7 @@ I build backend systems and AI-integrated apps that actually ship not just run i
 
 ## About Me
 
-Final-year Information Systems student building production-style systems, not toy projects. My flagship, **CampusConnect**, is a full-stack food ordering platform I containerized from the ground up — Node/Express REST API, JWT auth, PostgreSQL, served through Nginx in Docker.
+Final-year Information Systems student building production-style systems, not toy projects. My flagship, **CampusConnect**, is a full-stack food ordering platform I containerized from the ground up Node/Express REST API, JWT auth, PostgreSQL, served through Nginx in Docker.
 
 I hold four Microsoft/Oracle cloud AI certifications and use that theory the way it's meant to be used: shipped into working systems, not just listed on a badge. Currently looking for AI Engineer, ML Engineer, or Software Engineer roles where I can build things people rely on.
 
