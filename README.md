@@ -56,7 +56,7 @@ I hold four Microsoft/Oracle cloud AI certifications and use that theory the way
 <tr>
 <td width="50%">
 
-### [CampusConnect](https://github.com/sani-mnyandu-tech)
+### [CampusConnect]([https://github.com/sani-myandu-tech/CampusConnect])
 Full-stack food ordering marketplace for South African campuses. Rebuilt from a static UI into a fully containerized backend: Node/Express REST API, JWT auth, PostgreSQL, Nginx. Shipped with complete system documentation covering architecture, API reference, and security model.
 
 `Node.js` `Express` `PostgreSQL` `Docker` `JWT` `Nginx`
