@@ -74,7 +74,7 @@ C# WinForms POS and café management system with four distinct role-based dashbo
 <tr>
 <td width="50%">
 
-### [SmartBin](https://github.com/sani-myandu-tech)
+### [SmartBin](https://github.com/sani-myandu-tech/SmartBin-AI-Waste-Monitoring-System)
 Android smart-waste-bin monitoring app. Real-time device data over MQTT, NFC bin tagging, GraphQL queries via raw OkHttp, and Google Maps TSP route optimization for collection routing — built and debugged end-to-end on constrained lab hardware.
 
 `Kotlin` `Jetpack Compose` `MQTT` `GraphQL` `Firebase`
@@ -82,7 +82,7 @@ Android smart-waste-bin monitoring app. Real-time device data over MQTT, NFC bin
 </td>
 <td width="50%">
 
-### [JobTracker Pro](https://github.com/sani-myandu-tech)
+### [JobTracker Pro](https://github.com/sani-myandu-tech/JobTrackerPro)
 Android job-application tracker with a GPT-4o-mini chatbot for user assistance. Rebuilt mid-project from local-only storage to full Firebase cloud sync to meet production-readiness requirements.
 
 `Kotlin` `Jetpack Compose` `Firebase` `GPT-4o-mini` `Hilt`
