@@ -64,7 +64,7 @@ Full-stack food ordering marketplace for South African campuses. Rebuilt from a 
 </td>
 <td width="50%">
 
-### [Café 101](https://github.com/sani-myandu-tech/Cafe101)
+### [Café 101](https://github.com/sani-myandu-tech/Cafe101-Order-Management-System)
 C# WinForms POS and café management system with four distinct role-based dashboards (Cashier, Manager, Head Chef, Owner). Built an Owner dashboard with date-range KPI filtering, migrated SQL schemas across live databases, and shipped with full technical documentation. Built for a university capstone with a live SQL Server backend — not a mock dataset.
 
 `C#` `WinForms` `SQL Server` `GDI+`
