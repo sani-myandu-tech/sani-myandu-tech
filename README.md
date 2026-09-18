@@ -56,7 +56,7 @@ I hold four Microsoft/Oracle cloud AI certifications and use that theory the way
 <tr>
 <td width="50%">
 
-### [CampusConnect]([https://github.com/sani-myandu-tech/CampusConnect])
+### [CampusConnect](https://github.com/sani-myandu-tech/CampusConnect)
 Full-stack food ordering marketplace for South African campuses. Rebuilt from a static UI into a fully containerized backend: Node/Express REST API, JWT auth, PostgreSQL, Nginx. Shipped with complete system documentation covering architecture, API reference, and security model.
 
 `Node.js` `Express` `PostgreSQL` `Docker` `JWT` `Nginx`
@@ -64,7 +64,7 @@ Full-stack food ordering marketplace for South African campuses. Rebuilt from a 
 </td>
 <td width="50%">
 
-### [Café 101](https://github.com/sani-myandu-tech/Cafe101-mm)
+### [Café 101](https://github.com/sani-myandu-tech/Cafe101)
 C# WinForms POS and café management system with four distinct role-based dashboards (Cashier, Manager, Head Chef, Owner). Built an Owner dashboard with date-range KPI filtering, migrated SQL schemas across live databases, and shipped with full technical documentation. Built for a university capstone with a live SQL Server backend — not a mock dataset.
 
 `C#` `WinForms` `SQL Server` `GDI+`
