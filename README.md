@@ -2,7 +2,7 @@
 
 # Lungisani Mnyandu
 
-### AI & Cloud Developer · Full-Stack Engineer · Final-Year IS Student @ UKZN
+### AI & Cloud Developer · Full-Stack Engineer · Final-Year IS&T Student @ UKZN
 
 I build backend systems and AI-integrated apps that actually ship not just run in a notebook.
 
