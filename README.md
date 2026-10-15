@@ -106,6 +106,6 @@ Android job-application tracker with a GPT-4o-mini chatbot for user assistance. 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lungisani--mnyandu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lungisani-mnyandu)
-[![GitHub](https://img.shields.io/badge/GitHub-sani--mnyandu--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sani-mnyandu-tech)
+[![GitHub](https://img.shields.io/badge/GitHub-sani--myandu--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sani-myandu-tech)
 
 </div>
